@@ -1,6 +1,6 @@
-ab<h1>Hi, I'm Shehab! <br/><a href="[https://www.tryhackme.com/p/Shehash]">Cybersecurity</a>, <a href="https://www.salemcybersecurity.com">Blogging</a></h1>
+<h1>Hi, I'm Shehab! <br/><a href="https://www.tryhackme.com/p/Shehash">Cybersecurity</a>, <a href="https://www.salemcybersecurity.com">Blogging</a></h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> 💻Cybersecurity Projects:</h2>
 -[Active Home Directory Lab]
 
 <h2> 📝 Certifications / Courses</h2>
