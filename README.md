@@ -3,6 +3,11 @@ ab<h1>Hi, I'm Shehab! <br/><a href="[https://www.tryhackme.com/p/Shehash]">Cyber
 <h2> Cybersecurity Projects:</h2>
 -[Active Home Directory Lab]
 
+<h2> 📝 Certifications / Courses</h2>
+-2023 Cyberstart "National Cyber Scholar" 
+- Comptia ITF+
+-SANS GFACT Certification using NCSF Cyber Foundations Academy
+- TryHackMe courses "JR Penetration Tester + Offensive Pentesting" 
 
 <h2>📺 Popular Cybersecurity Blogs</h2>
 
