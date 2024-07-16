@@ -1,7 +1,7 @@
 <h1>Hi, I'm Shehab! I am into <br/><a href="https://www.tryhackme.com/p/Shehash">Cybersecurity</a>, <a href="https://www.salemcybersecurity.com">Blogging</a></h1>
 
 <h2> 💻Cybersecurity Projects:</h2>
--[Active Home Directory Lab]
+-Coming Soon...
 
 <h2> 📝 Certifications / Courses</h2>
 
