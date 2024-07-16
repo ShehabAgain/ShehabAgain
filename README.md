@@ -5,10 +5,11 @@
 
 <h2> 📝 Certifications / Courses</h2>
 
--  2023 Cyberstart "National Cyber Scholar" 
+-  2023 Cyberstart "National Cyber Scholar"
+-  2024 CyberStart "National Cyber Scholar with Honors"
 -  Comptia ITF+
 -  SANS GFACT Certification using NCSF Cyber Foundations Academy
--  TryHackMe courses "JR Penetration Tester + Offensive Pentesting" 
+
 
 <h2>📺 Popular Cybersecurity Blogs</h2>
 
