@@ -8,7 +8,7 @@
 -  2023 Cyberstart "National Cyber Scholar"
 -  2024 CyberStart "National Cyber Scholar with Honors"
 -  Comptia ITF+
--  SANS GFACT Certification using NCSF Cyber Foundations Academy
+-  GIAC Foundational Cybersecurity Technologies (GFACT) Certification using NCSF Cyber Foundations Academy
 
 
 <h2>📺 Popular Cybersecurity Blogs</h2>
